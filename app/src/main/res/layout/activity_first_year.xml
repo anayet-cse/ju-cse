@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="200dp"
+    tools:context=".FirstYearActivity">
+
+    <Button
+        android:id="@+id/button_fist_semester"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Semester"
+        android:layout_gravity="center">
+    </Button>
+
+    <Button
+        android:id="@+id/button_second_semester"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Second Semester"
+        android:layout_gravity="center">
+    </Button>
+
+
+</LinearLayout>

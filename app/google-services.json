@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284133243333",
+    "project_id": "juhub-f9137",
+    "storage_bucket": "juhub-f9137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284133243333:android:61130a54de05b3a177f3ac",
+        "android_client_info": {
+          "package_name": "com.example.juhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284133243333-ebgb3qmbf30qkajgdetnko5jbhf38bop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Kmvgc2235KNoX5Q7omGq14z661buc2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284133243333-ebgb3qmbf30qkajgdetnko5jbhf38bop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
